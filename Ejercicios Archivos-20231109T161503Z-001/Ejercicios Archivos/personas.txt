@@ -1,7 +1,0 @@
-1;Carlos;Horcas;05/01/1989
-2;Manuel;Heredia;26/12/1973
-3;Rosa;Campos;12/06/1961
-4;David;Perez;25/07/2006
-5;Gabriel;Chaves;14/06/1997
-6;Maria;Caballero;5/05/2004
-7;Pepe;Trashorras;6/06/2004
