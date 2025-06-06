@@ -1,0 +1,11 @@
+Titulo,Autor,Precio
+El Gran Gatsby,F. Scott Fitzgerald,12.99
+Orgullo y Prejuicio,Jane Austen,10.5
+Cien años de soledad,Gabriel García Márquez,15.75
+1984,George Orwell,9.99
+To Kill a Mockingbird,Harper Lee,11.25
+The Catcher in the Rye,J.D. Salinger,10.99
+The Great Expectations,Charles Dickens,13.5
+Harry Potter and the Philosopher's Stone,J.K. Rowling,14.25
+The Lord of the Rings,J.R.R. Tolkien,16.99
+Animal Farm,George Orwell,12.59

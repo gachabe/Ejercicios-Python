@@ -1,0 +1,5 @@
+Factura número 0:
+The Da Vinci Code	12.75
+
+
+El coste total fue 12.75, el importe 100. Resultado 87.25
